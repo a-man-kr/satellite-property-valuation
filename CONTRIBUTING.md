@@ -14,7 +14,7 @@ Thank you for your interest in contributing to this project!
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/satellite-property-valuation.git
+git clone https://github.com/a-man-kr/satellite-property-valuation.git
 cd satellite-property-valuation
 
 # Create virtual environment

@@ -62,7 +62,7 @@ A multimodal machine learning system that predicts property prices by combining 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/satellite-property-valuation.git
+git clone https://github.com/a-man-kr/satellite-property-valuation.git
 cd satellite-property-valuation
 
 # Create virtual environment
@@ -204,7 +204,7 @@ If you use this code in your research, please cite:
 @software{satellite_property_valuation,
   title = {Satellite Imagery-Based Property Valuation},
   year = {2026},
-  url = {https://github.com/yourusername/satellite-property-valuation}
+  url = {https://github.com/a-man-kr/satellite-property-valuation}
 }
 ```
 

@@ -15,7 +15,7 @@ setup(
     description="Multimodal ML system for property price prediction using satellite imagery",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/satellite-property-valuation",
+    url="https://github.com/a-man-kr/satellite-property-valuation",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
