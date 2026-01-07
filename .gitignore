@@ -1,0 +1,113 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+# IDE / Editor
+# =========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.spyderproject
+.spyproject
+
+# =========================
+# OS Generated
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =========================
+# Data Files (Large)
+# =========================
+data/images/*.png
+data/images/*.jpg
+data/images/*.jpeg
+data/processed/*.npz
+data/processed/*.pkl
+data/processed/*.npy
+data/raw/*.csv
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/images/.gitkeep
+!data/processed/.gitkeep
+
+# =========================
+# Model Outputs
+# =========================
+outputs/*.pth
+outputs/*.pkl
+outputs/*.joblib
+outputs/figures/*.png
+outputs/figures/*.jpg
+!outputs/figures/.gitkeep
+!outputs/predictions.csv
+
+# =========================
+# Logs & Misc
+# =========================
+*.log
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# =========================
+# Documentation Build
+# =========================
+docs/_build/
+site/
